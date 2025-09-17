@@ -5,15 +5,18 @@
 {% block content %}
 
 {% for post in posts %}
-<a href="{{ url_for('post', post_id=post['id']) }}">
-    <h2>{{ post['title'] }}</h2>
-</a>
-
-<span class="badge badge-primary text-dark">{{ post['created']}}</span>
-<a href="{{url_for('edit',post_id=post['id'])}}">
-    <span class="badge badge-warning text-dark">编辑</span>
-</a>
-<hr>
+<div class="card mb-3 shadow-sm">
+  <div class="card-body">
+    <h5 class="card-title mb-2">
+      <a class="text-decoration-none" href="{{ url_for('post', post_id=post['id']) }}">{{ post['title'] }}</a>
+    </h5>
+    <div class="d-flex align-items-center gap-2">
+      <span class="badge rounded-pill text-bg-secondary">{{ post['created']}}</span>
+      <a class="btn btn-sm btn-outline-secondary" href="{{url_for('edit',post_id=post['id'])}}">编辑</a>
+    </div>
+  </div>
+  
+</div>
 {% endfor %}
 
 {% endblock %}
