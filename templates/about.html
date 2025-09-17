@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block title %}关于 Leahcim{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="page-title">关于 Leahcim</h1>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4 text-center">
+                            <div class="mb-3">
+                                <i class="bi bi-person-circle" style="font-size: 5rem; color: #007bff;"></i>
+                            </div>
+                            <h5>Leahcim</h5>
+                            <p class="text-muted">Web 开发者</p>
+                        </div>
+                        <div class="col-md-8">
+                            <h5>个人简介</h5>
+                            <p>我是一名热爱技术的开发者，专注于 Web 开发和 Python 编程。在这个博客中，我会分享我的学习心得、技术经验和项目实践。</p>
+                            
+                            <h5 class="mt-4">技能专长</h5>
+                            <div class="row">
+                                <div class="col-6">
+                                    <ul class="list-unstyled">
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>Python</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>Flask/Django</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>JavaScript</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>React/Vue</li>
+                                    </ul>
+                                </div>
+                                <div class="col-6">
+                                    <ul class="list-unstyled">
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>HTML/CSS</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>MySQL/PostgreSQL</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>Git</li>
+                                        <li><i class="bi bi-check-circle text-success me-2"></i>Linux</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <h5 class="mt-4">联系我</h5>
+                            <div class="d-flex gap-3">
+                                <a href="#" class="btn btn-outline-primary btn-sm">
+                                    <i class="bi bi-github me-1"></i>GitHub
+                                </a>
+                                <a href="#" class="btn btn-outline-info btn-sm">
+                                    <i class="bi bi-twitter me-1"></i>Twitter
+                                </a>
+                                <a href="#" class="btn btn-outline-success btn-sm">
+                                    <i class="bi bi-envelope me-1"></i>Email
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    <h6 class="mb-0">博客信息</h6>
+                </div>
+                <div class="card-body">
+                    <p class="text-muted">这个博客建立于 2024 年，旨在分享技术学习和实践经验。</p>
+                    <hr>
+                    <div class="text-center">
+                        <h6>感谢访问！</h6>
+                        <p class="text-muted small">希望我的分享能对您有所帮助</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

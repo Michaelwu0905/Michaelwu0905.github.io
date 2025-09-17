@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Leahcim的博客 - 首页{% endblock %}
+
+{% block content %}
+
+{% for post in posts %}
+<a href="{{ url_for('post', post_id=post['id']) }}">
+    <h2>{{ post['title'] }}</h2>
+</a>
+
+<span class="badge badge-primary text-dark">{{ post['created']}}</span>
+<a href="{{url_for('edit',post_id=post['id'])}}">
+    <span class="badge badge-warning text-dark">编辑</span>
+</a>
+<hr>
+{% endfor %}
+
+{% endblock %}
