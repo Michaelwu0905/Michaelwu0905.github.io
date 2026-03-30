@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>https://Michaelwu0905.github.io/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://Michaelwu0905.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://Michaelwu0905.github.io/post/first-post/</link>
+      <pubDate>Mon, 23 Mar 2026 10:00:00 +0800</pubDate>
+      <guid>https://Michaelwu0905.github.io/post/first-post/</guid>
+      <description>&lt;h2 id=&#34;你好&#34;&gt;你好&lt;/h2&gt;&#xA;&lt;p&gt;这是一篇用 Hugo 写的文章。&lt;/p&gt;&#xA;&lt;p&gt;以后我只需要写 Markdown，然后 push 到 GitHub，就可以发布了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
