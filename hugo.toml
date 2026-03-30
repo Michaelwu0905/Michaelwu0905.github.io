@@ -1,7 +1,7 @@
 baseURL = 'https://Michaelwu0905.github.io/'
 languageCode = 'zh-cn'
-title = '我的 Hugo 博客'
-theme = 'ananke'
+title = 'leahc1m‘s blog'
+theme = 'reimu'
 
 [caches]
   [caches.images]
