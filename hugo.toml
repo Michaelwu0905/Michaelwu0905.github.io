@@ -1,6 +1,6 @@
 baseURL = 'https://Michaelwu0905.github.io/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+languageCode = 'zh-cn'
+title = '我的 Hugo 博客'
 theme = 'ananke'
 
 [caches]
