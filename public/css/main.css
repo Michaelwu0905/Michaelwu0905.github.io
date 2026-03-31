@@ -1,8 +1,8 @@
 @charset "UTF-8";
 :root {
-  --footer-icon: url(../images/taichi.png);
-  --top-icon: url(../images/taichi.png);
-  --sponsor-icon: url(../images/taichi.png);
+  --footer-icon: url(../images/coding.png);
+  --top-icon: url(../images/coding.png);
+  --sponsor-icon: url(../images/coding.png);
   --cursor-default: url(../images/cursor/reimu-cursor-default.png), auto;
   --cursor-pointer: url(../images/cursor/reimu-cursor-pointer.png), pointer;
   --cursor-text: url(../images/cursor/reimu-cursor-text.png), text;
