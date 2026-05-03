@@ -2,17 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>leahc1m‘s blog</title>
-    <link>http://localhost:49576/</link>
+    <link>http://localhost:60672/</link>
     <description>Recent content on leahc1m‘s blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 May 2026 09:44:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:49576/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 May 2026 16:02:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:60672/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passage 4</title>
+      <link>http://localhost:60672/posts/passage-4/</link>
+      <pubDate>Sun, 03 May 2026 16:02:46 +0800</pubDate>
+      <guid>http://localhost:60672/posts/passage-4/</guid>
+      <description>&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;p&gt;There has been a debate on whether we should study in groups or study alone to be more effective. While self-learning do brings lots of benefits, I believe that group study is a better method to acquire new knowledges.&lt;/p&gt;
+&lt;p&gt;On the one hand, self-learning can be very effective when you are deep-diving into a specific area of knowledge, where only a few people have heard about. It would be quite insufficient to discuss some uncommon topics with someone who can&amp;rsquo;t really relate themselves to. Besides, self-learning is essential when someone needs to concentrate. When someone is preparing for an exam, it is better not to find some revise partner since every exam point is in the textbook.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passage 3</title>
+      <link>http://localhost:60672/posts/passage-3/</link>
+      <pubDate>Sun, 03 May 2026 12:21:01 +0800</pubDate>
+      <guid>http://localhost:60672/posts/passage-3/</guid>
+      <description>&lt;h2 id=&#34;ielts-writing&#34;&gt;IELTS writing&lt;/h2&gt;
+&lt;p&gt;Some people argue that the money spent by governments on space programmes would be better spent on vital public services such as schools and hospitals. I partly agree with this statement. I believe that space programmes also brings long-term benefits to society and should not be cut completely.&lt;/p&gt;
+&lt;p&gt;On the one hand, it is true that those vital public services are the backbone of our society and it should be the top agenda for every government. Schools provide knowledge and skills for children and teenagers, while hospitals have the duty to protect citizen&amp;rsquo;s health and save lives. If these public services are underfunded, the whole society would suffer. Therefore, when a government&amp;rsquo;s budget is limited, these vital public services should be the top priority to consider.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>雅思议论文范文以及错误总结</title>
-      <link>http://localhost:49576/posts/passage-2/</link>
+      <link>http://localhost:60672/posts/passage-2/</link>
       <pubDate>Sun, 03 May 2026 09:44:32 +0800</pubDate>
-      <guid>http://localhost:49576/posts/passage-2/</guid>
+      <guid>http://localhost:60672/posts/passage-2/</guid>
       <description>&lt;h1 id=&#34;ielts-writing-task-2&#34;&gt;IELTS Writing Task 2&lt;/h1&gt;
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
 &lt;p&gt;The money spent by governments on space programmes would be better spent on vital public services such as schoolss and hospitals.&lt;/p&gt;
@@ -22,9 +41,9 @@
     </item>
     <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:49576/posts/first-post/</link>
+      <link>http://localhost:60672/posts/first-post/</link>
       <pubDate>Mon, 23 Mar 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:49576/posts/first-post/</guid>
+      <guid>http://localhost:60672/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;你好&#34;&gt;你好&lt;/h2&gt;
 &lt;p&gt;这是一篇用 Hugo 写的文章。&lt;/p&gt;
 &lt;p&gt;以后我只需要写 Markdown，然后 push 到 GitHub，就可以发布了。&lt;/p&gt;</description>

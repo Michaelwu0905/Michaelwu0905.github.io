@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/passage-2.md",
+                "file": "content/posts/passage-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "passage-2"
+              "title": "passage-4"
             }
           }
         ]
@@ -186,6 +186,10 @@
   },
   "active": "54cb7baea8e58dab",
   "lastOpenFiles": [
+    "content/posts/passage-3.md",
+    "content/posts/passage-2.md",
+    "public/posts/passage-3/index.html",
+    "public/posts/passage-3",
     "public/index.json",
     "public/search/index.html",
     "public/search",
@@ -194,9 +198,6 @@
     "public/posts/page/1/index.html",
     "public/posts/page/1",
     "public/posts/page",
-    "public/archives/index.html",
-    "public/archives",
-    "public/posts/index.html",
     "content/search.md",
     "content/archives.md",
     "themes/PaperMod/images/tn.png",
