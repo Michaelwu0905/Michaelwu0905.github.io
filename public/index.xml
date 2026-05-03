@@ -1,74 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>leahc1m‘s blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content from leahc1m‘s blog</description>
+    <link>http://localhost:49576/</link>
+    <description>Recent content on leahc1m‘s blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    
-    <managingEditor>michaelwu0905@outlook.com (leahc1m)</managingEditor>
-    <webMaster>michaelwu0905@outlook.com (leahc1m)</webMaster>
-    
-    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
-    
     <lastBuildDate>Sun, 03 May 2026 09:44:32 +0800</lastBuildDate>
-    
-    
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
-    
-
-    
-    
-
+    <atom:link href="http://localhost:49576/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>雅思议论文范文以及错误总结</title>
-      <link>http://localhost:1313/posts/passage-2/</link>
-      <pubDate>Sun, 03 May 2026 09:44:32 &#43;0800</pubDate>
-      <author>michaelwu0905@outlook.com (leahc1m)</author>
-      <guid>http://localhost:1313/posts/passage-2/</guid>
-      <description>
-        <![CDATA[<h1>雅思议论文范文以及错误总结</h1><p>作者：leahc1m（michaelwu0905@outlook.com）</p>
-        
-          <h1 id="ielts-writing-task-2">
-<a class="header-anchor" href="#ielts-writing-task-2"></a>
-IELTS Writing Task 2
-</h1><h2 id="question">
-<a class="header-anchor" href="#question"></a>
-Question
-</h2><p>The money spent by governments on space programmes would be better spent on vital public services such as schoolss and hospitals.</p>
-<p>To what extent do you agree or disagree.</p>
-<h2 id="example">
-<a class="header-anchor" href="#example"></a>
-Example
-</h2><p>Some people believe that the government money spent on space programs should instead be used for essential public services, such as schools and hospitals. I partly agree with this view because education and healthcare should clearly be priorities, but I also believe that space exploration should continue to receive a reasonable level of funding.</p>
-        
-        <hr><p>本文2026-05-03首发于<a href='http://localhost:1313/'>leahc1m‘s blog</a>，最后修改于2026-05-03</p>]]>
-      </description>
-      
+      <link>http://localhost:49576/posts/passage-2/</link>
+      <pubDate>Sun, 03 May 2026 09:44:32 +0800</pubDate>
+      <guid>http://localhost:49576/posts/passage-2/</guid>
+      <description>&lt;h1 id=&#34;ielts-writing-task-2&#34;&gt;IELTS Writing Task 2&lt;/h1&gt;
+&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;p&gt;The money spent by governments on space programmes would be better spent on vital public services such as schoolss and hospitals.&lt;/p&gt;
+&lt;p&gt;To what extent do you agree or disagree.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;Some people believe that the government money spent on space programs should instead be used for essential public services, such as schools and hospitals. I partly agree with this view because education and healthcare should clearly be priorities, but I also believe that space exploration should continue to receive a reasonable level of funding.&lt;/p&gt;</description>
     </item>
-    
-    
-
     <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 23 Mar 2026 10:00:00 &#43;0800</pubDate>
-      <author>michaelwu0905@outlook.com (leahc1m)</author>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>
-        <![CDATA[<h1>我的第一篇文章</h1><p>作者：leahc1m（michaelwu0905@outlook.com）</p>
-        
-          <h2 id="你好">
-<a class="header-anchor" href="#%e4%bd%a0%e5%a5%bd"></a>
-你好
-</h2><p>这是一篇用 Hugo 写的文章。</p>
-<p>以后我只需要写 Markdown，然后 push 到 GitHub，就可以发布了。</p>
-        
-        <hr><p>本文2026-03-23首发于<a href='http://localhost:1313/'>leahc1m‘s blog</a>，最后修改于2026-03-23</p>]]>
-      </description>
-      
+      <link>http://localhost:49576/posts/first-post/</link>
+      <pubDate>Mon, 23 Mar 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:49576/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;你好&#34;&gt;你好&lt;/h2&gt;
+&lt;p&gt;这是一篇用 Hugo 写的文章。&lt;/p&gt;
+&lt;p&gt;以后我只需要写 Markdown，然后 push 到 GitHub，就可以发布了。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

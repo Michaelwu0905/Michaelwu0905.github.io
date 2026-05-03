@@ -1,10 +1,64 @@
 baseURL = 'https://Michaelwu0905.github.io/'
 languageCode = 'zh-cn'
 title = 'leahc1m‘s blog'
-theme = 'reimu'
+theme = 'PaperMod'
+hasCJKLanguage = true
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 20
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 40
 
 [params]
   mainSections = ["posts"]
+  env = "production"
+  author = "leahc1m"
+  description = "Rewriting everything in rust..."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  DateFormat = "2006-01-02"
+
+  [params.homeInfoParams]
+    Title = "leahc1m's blog"
+    Content = "Rewriting everything in rust..."
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:michaelwu0905@outlook.com"
 
 [caches]
   [caches.images]
