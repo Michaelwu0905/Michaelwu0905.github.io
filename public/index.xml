@@ -12,7 +12,7 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Mon, 23 Mar 2026 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 09:44:32 +0800</lastBuildDate>
     
     
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -22,11 +22,40 @@
     
 
     <item>
+      <title>雅思议论文范文以及错误总结</title>
+      <link>http://localhost:1313/posts/passage-2/</link>
+      <pubDate>Sun, 03 May 2026 09:44:32 &#43;0800</pubDate>
+      <author>michaelwu0905@outlook.com (leahc1m)</author>
+      <guid>http://localhost:1313/posts/passage-2/</guid>
+      <description>
+        <![CDATA[<h1>雅思议论文范文以及错误总结</h1><p>作者：leahc1m（michaelwu0905@outlook.com）</p>
+        
+          <h1 id="ielts-writing-task-2">
+<a class="header-anchor" href="#ielts-writing-task-2"></a>
+IELTS Writing Task 2
+</h1><h2 id="question">
+<a class="header-anchor" href="#question"></a>
+Question
+</h2><p>The money spent by governments on space programmes would be better spent on vital public services such as schoolss and hospitals.</p>
+<p>To what extent do you agree or disagree.</p>
+<h2 id="example">
+<a class="header-anchor" href="#example"></a>
+Example
+</h2><p>Some people believe that the government money spent on space programs should instead be used for essential public services, such as schools and hospitals. I partly agree with this view because education and healthcare should clearly be priorities, but I also believe that space exploration should continue to receive a reasonable level of funding.</p>
+        
+        <hr><p>本文2026-05-03首发于<a href='http://localhost:1313/'>leahc1m‘s blog</a>，最后修改于2026-05-03</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:1313/post/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Mon, 23 Mar 2026 10:00:00 &#43;0800</pubDate>
       <author>michaelwu0905@outlook.com (leahc1m)</author>
-      <guid>http://localhost:1313/post/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>
         <![CDATA[<h1>我的第一篇文章</h1><p>作者：leahc1m（michaelwu0905@outlook.com）</p>
         

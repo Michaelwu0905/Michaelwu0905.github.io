@@ -3,6 +3,9 @@ languageCode = 'zh-cn'
 title = 'leahc1m‘s blog'
 theme = 'reimu'
 
+[params]
+  mainSections = ["posts"]
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
