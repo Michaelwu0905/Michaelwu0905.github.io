@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/passage-4.md",
+                "file": "content/posts/passage-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "passage-4"
+              "title": "passage-5"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "48501cde87256ffa",
@@ -186,6 +185,12 @@
   },
   "active": "54cb7baea8e58dab",
   "lastOpenFiles": [
+    "public/posts/passage-5/index.html",
+    "public/posts/passage-5",
+    "public/images/雅思对比题.png",
+    "static/images/雅思对比题.png",
+    "content/posts/passage-4.md",
+    "content/posts/passage-5.md",
     "content/posts/passage-3.md",
     "content/posts/passage-2.md",
     "public/posts/passage-3/index.html",
@@ -197,7 +202,6 @@
     "public/assets/js",
     "public/posts/page/1/index.html",
     "public/posts/page/1",
-    "public/posts/page",
     "content/search.md",
     "content/archives.md",
     "themes/PaperMod/images/tn.png",
