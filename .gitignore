@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor and local workspace settings
+.obsidian/
+.vscode/
+.idea/
+
+# Temporary editor files
+*.swp
+*.swo
+*~
