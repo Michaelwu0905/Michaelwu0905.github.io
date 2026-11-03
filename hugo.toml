@@ -1,6 +1,6 @@
-baseURL = 'https://Michaelwu0905.github.io/'
+baseURL = 'https://michaelwu0905.github.io/'
 languageCode = 'zh-cn'
-title = 'leahc1m‘s blog'
+title = "leahc1m's blog"
 theme = 'PaperMod'
 hasCJKLanguage = true
 enableRobotsTXT = true
